@@ -21,6 +21,6 @@ public class BinarySearch {
             }
         }
 
-        System.out.println("Target index: " + result);
+        System.out.println("Target index is which we are searching is : " + result);
     }
 }
